@@ -2,5 +2,5 @@ This is cron syntax session
 Poll SCM & Cron will work only if any commits are made to the repo 
 If no commits are made to the repo, No Builds will trigger
 I have added a specific time for the 
-cron 59 12 10 2 2
-Build will happen At 12:55 on day-of-month 10 and on Tuesday in February
+cron 4 13 10 2 2
+Build will happen At 13:04 on day-of-month 10 and on Tuesday in February.
