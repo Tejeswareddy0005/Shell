@@ -1,1 +1,3 @@
 This is cron syntax session
+Poll SCM & Cron will work only if any commits are made to the repo 
+If no commits are made to the repo, No Builds will trigger
